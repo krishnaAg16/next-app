@@ -2,7 +2,7 @@
 Apna Bazaar Project folder
 
 <br>
-* public * Folder - Contains all the asset of project.<br>
+_public_ Folder - Contains all the asset of project.<br>
 _src_ Folder - Contains all the webpage elements.<br>
 
 ## How to Start
