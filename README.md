@@ -2,8 +2,8 @@
 Apna Bazaar Project folder
 
 <br>
-Public Folder Contains all the asset of project.<br>
-Src Folder Contains all the webpage elements.<br>
+*public* Folder - Contains all the asset of project.<br>
+*src* Folder - Contains all the webpage elements.<br>
 
 ## How to Start
 1. Clone the repository in the folder.
